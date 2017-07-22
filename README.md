@@ -1,10 +1,10 @@
-##Abdulellah Abualshour
+## Abdulellah Abualshour
 
-##Lama Affara
+## Lama Affara
 
-##Peter Wonka
+## Peter Wonka
 
-#Manual and Automatic Image Rectification
+# Manual and Automatic Image Rectification
 This is a user interface in which basic image transformations can be done, in addition to manual and automatic rectification.
 o To run the user interface, open rec_gui.m using Matlab and run the program.
   o Files:
