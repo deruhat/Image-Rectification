@@ -1,8 +1,8 @@
-## Abdulellah Abualshour
+### Abdulellah Abualshour
 
-## Lama Affara
+### Lama Affara
 
-## Peter Wonka
+### Peter Wonka
 
 # Manual and Automatic Image Rectification
 This is a user interface in which basic image transformations can be done, in addition to manual and automatic rectification.
