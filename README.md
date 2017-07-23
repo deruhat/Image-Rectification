@@ -1,6 +1,6 @@
 #### Abdulellah Abualshour
 
-#### Peter Wonka
+#### Dr. Peter Wonka
 
 #### Lama Affara
 
